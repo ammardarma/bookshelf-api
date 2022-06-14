@@ -1,0 +1,15 @@
+{
+    "bangau" : 
+      {
+      "nama" : "Bangau", 
+      "status" : "Aman", 
+      "jenisMakanan" : "Karnivora"
+      }, 
+      
+      "elang" : 
+      {
+      "nama" : "Elang", 
+      "status" : "Terancam", 
+      "jenisMakanan" : "Karnivora"
+      }
+    }
